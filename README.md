@@ -209,9 +209,5 @@ This lab was conducted entirely within an **isolated virtual machine environment
 ## 👤 Author
 
 **Moustafa Mohamed**
-Network Security Student | Alamo Colleges
-📧 mmohamed17@student.alamo.edu
-
----
-
-*Completed: March 29, 2026 | Lab 06 — Network Security, Firewalls, and VPNs (4th Edition)*
+elnobimostafa@gmail.com
+https://www.linkedin.com/in/moustafa-elnobi-mohamed/
